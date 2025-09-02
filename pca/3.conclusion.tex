@@ -1,0 +1,33 @@
+\section{Conclusion}
+
+\begin{frame}{Conclusion}
+    \begin{columns}
+        \begin{column}{0.5\textwidth}
+            \begin{center}
+                \textbf{Dimensionality reduction}
+            \end{center}
+            \begin{itemize}
+                \item Curse of Dimensionality: High dimension $\to$ Poor distance measurement + Model efficiency
+                \item Reduce dimension by projecting onto new space
+            \end{itemize}
+        \end{column}
+
+        \begin{column}{0.5\textwidth}
+            \begin{center}
+                \textbf{PCA}
+            \end{center}
+            \begin{itemize}
+                \item Find directions, in which projected data have large variance
+                \item Optimize $\sigma^2$ via Lagrange multiplier
+            \end{itemize}
+        \end{column}
+    \end{columns}
+\end{frame}
+
+\begin{frame}{Other approaches}
+    \begin{itemize}
+        \item Kernel PCA: Transform data to another space via a kernel function (which introduces more corelation between variables), then perform PCA.
+        \item Multidimensional Scaling: Focus on preserving distance between datapoint instead of std.
+        \item Non-Negative Matrix Factorization: Similar to PCA but the return values are non-negative. Use for non-negative data (movie rating, human-related features, frequency, intensity)
+    \end{itemize}
+\end{frame}

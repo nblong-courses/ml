@@ -1,0 +1,34 @@
+%!TeX encoding = UTF-8
+%!TeX program = xelatex
+
+\documentclass[notheorems, aspectratio=169]{beamer}
+% aspectratio: 1610, 149, 54, 43(default), 32
+
+\input{../preamble.tex}
+
+% ---------------------------------------------------------------------
+%% preamble
+\title{Dimensionality Reduction}
+
+\subtitle{Machine Learning}
+\author{Nguyễn Bảo Long, MSc}
+% \author{Nguyễn Bảo Long, MSc\inst{a,b}}
+% \institute[HCMUS]{\inst{a}University of Science, Ho Chi Minh City, Vietnam\\\inst{b}Vietnam National University, Ho Chi Minh City, Vietnam}
+% -------------------------------------------------------------
+
+\begin{document}
+%% title frame
+\begin{frame}
+	\titlepage
+\end{frame}
+
+\begin{frame}{Content}
+	\tableofcontents
+\end{frame}
+
+\input{1.intro}
+\input{2.pca} % bị thiếu một chút phần scale trước khi chuẩn hóa
+\input{3.conclusion}
+\input{References}
+
+\end{document}

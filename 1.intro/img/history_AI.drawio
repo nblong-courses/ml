@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.2" pages="3">
+  <diagram name="Page-1" id="8E0XkUJTqXcnVlmIgSEa">
+    <mxGraphModel dx="1167" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;endArrow=none;endFill=0;" parent="1" source="qNJtiLvO4EvaZpRT1XBX-3" target="qNJtiLvO4EvaZpRT1XBX-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-3" value="Early AI &amp;amp; Winter AI&lt;div&gt;(1943-1973)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="420" width="152" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="qNJtiLvO4EvaZpRT1XBX-5" target="qNJtiLvO4EvaZpRT1XBX-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-5" value="Expert system&lt;div&gt;(1969-1986)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="420" width="122" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="qNJtiLvO4EvaZpRT1XBX-14" target="qNJtiLvO4EvaZpRT1XBX-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-14" value="Neural Network&lt;div&gt;(1986-now)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="420" width="122" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="qNJtiLvO4EvaZpRT1XBX-15" target="qNJtiLvO4EvaZpRT1XBX-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-15" value="Probabilistic ML&lt;div&gt;(1987-now)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="420" width="132" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="qNJtiLvO4EvaZpRT1XBX-16" target="qNJtiLvO4EvaZpRT1XBX-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-16" value="Big data&lt;div&gt;(2001–now)&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="420" width="112" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="qNJtiLvO4EvaZpRT1XBX-17" target="qNJtiLvO4EvaZpRT1XBX-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="400" />
+              <mxPoint x="701" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-17" value="&amp;nbsp;Deep learning&amp;nbsp;&lt;div&gt;(2011–now)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="420" width="122" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-30" value="&lt;div&gt;Turing test,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Perceptron,...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Great expectation led to Winter AI&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="44" y="520" width="184" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-34" value="Build upon&amp;nbsp;&lt;div&gt;Expert&#39;s knowledge&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="201" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-36" value="Back to back-propagation algorithm (1960s)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="311" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-38" value="Hidden Markov Model&lt;div&gt;Bayesian Network&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="426" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-40" value="The Internet creates a large amount of data" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="536" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qNJtiLvO4EvaZpRT1XBX-42" value="AlexNet,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GAN,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transformers, GPT1, Defusion,...&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="611.5" y="330" width="179" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Psl_jdwwNV06PYkTdwQ9" name="Page-2">
+    <mxGraphModel dx="213" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-1" value="" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="495" width="722" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-2" value="Early AI &amp;amp; Winter AI&lt;div&gt;(1943-1973)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="E8Lp3QIgwahpVYRvSAaA-1" vertex="1">
+          <mxGeometry x="10" y="33" width="152" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-3" value="Expert system&lt;div&gt;(1969-1986)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="E8Lp3QIgwahpVYRvSAaA-1" vertex="1">
+          <mxGeometry x="150" y="33" width="122" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-4" value="Neural Network&lt;div&gt;(1986-now)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="E8Lp3QIgwahpVYRvSAaA-1" vertex="1">
+          <mxGeometry x="260" y="33" width="122" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-5" value="Probabilistic ML&lt;div&gt;(1987-now)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="E8Lp3QIgwahpVYRvSAaA-1" vertex="1">
+          <mxGeometry x="370" y="33" width="132" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-6" value="Big data&lt;div&gt;(2001–now)&amp;nbsp;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="E8Lp3QIgwahpVYRvSAaA-1" vertex="1">
+          <mxGeometry x="490" y="33" width="112" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="E8Lp3QIgwahpVYRvSAaA-7" value="&amp;nbsp;Deep learning&amp;nbsp;&lt;div&gt;(2011–now)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="E8Lp3QIgwahpVYRvSAaA-1" vertex="1">
+          <mxGeometry x="590" y="33" width="122" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fYaM2V620mT1Jz3TVYlS-1" value="AI Inception&lt;div&gt;(1943-1956)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="413" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fYaM2V620mT1Jz3TVYlS-2" value="Early enthusiasm&lt;div&gt;(1952-1969)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="538" y="413" width="142" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="fYaM2V620mT1Jz3TVYlS-3" value="Winter of AI&amp;nbsp;&lt;div&gt;(1966-1973)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="668" y="413" width="122" height="67" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EOrVaagkd0vaPBIR2MMu" name="Page-3">
+    <mxGraphModel dx="213" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
